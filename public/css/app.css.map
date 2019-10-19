@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./resources/sass/_table.scss"],"names":[],"mappings":"AAEO;EACC","file":"/css/app.css","sourcesContent":[".table {\n    &.vt-middle {\n       td {\n        vertical-align: middle;\n       } \n    }\n}"],"sourceRoot":""}

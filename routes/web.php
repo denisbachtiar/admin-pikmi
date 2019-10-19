@@ -16,4 +16,8 @@ Route::get('/', function () {
 });
 Route::get('/users', function () {
     return view('users');
-});
+})->name('users');
+
+Route::get('/point', function () {
+    return view('point');
+})->name('point');

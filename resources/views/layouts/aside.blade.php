@@ -38,7 +38,7 @@
               </ul>
             </li> --}}
             <li>
-              <a href="pages/widgets.html">
+            <a href="{{ route('users')}}">
                 <i class="fa fa-user"></i> <span>Users</span>
                 <span class="pull-right-container">
                   <small class="label pull-right bg-green">new</small>
@@ -47,7 +47,7 @@
               </a>
             </li>
             <li>
-                <a href="pages/widgets.html">
+                <a href="{{ route('point')}}">
                 <i class="fa fa-product-hunt"></i> <span>Poin Product</span>
                     <span class="pull-right-container">
                         <small class="label pull-right bg-green">new</small>
